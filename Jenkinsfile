@@ -10,6 +10,6 @@ pipeline {
       steps {
         bat 'java Hello' 
       } 
-    } 
+    }
   } 
 } 
